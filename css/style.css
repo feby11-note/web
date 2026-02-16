@@ -514,3 +514,28 @@ img {
     font-size: 22px;
   }
 }
+/* ===== 螢光筆特效 ===== */
+.hl-pink {
+  background: linear-gradient(transparent 60%, #FFD2D5 60%);
+  padding: 0 2px;
+}
+
+.hl-yellow {
+  background: linear-gradient(transparent 60%, #FFF0A0 60%);
+  padding: 0 2px;
+}
+
+.hl-blue {
+  background: linear-gradient(transparent 60%, #C5E3F6 60%);
+  padding: 0 2px;
+}
+
+.hl-green {
+  background: linear-gradient(transparent 60%, #C8F0C8 60%);
+  padding: 0 2px;
+}
+
+.hl-purple {
+  background: linear-gradient(transparent 60%, #E0C8F0 60%);
+  padding: 0 2px;
+}
