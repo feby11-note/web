@@ -168,7 +168,7 @@ img {
 
 .category-card {
   background: var(--white);
-  border: 1px solid var(--gray-200);
+  border: 1px solid var(--pink-light);
   border-radius: var(--radius);
   padding: 28px 24px;
   transition: var(--transition);
@@ -244,7 +244,7 @@ img {
 .article-item {
   display: block;
   background: var(--white);
-  border: 1px solid var(--gray-200);
+  border: 1px solid var(--pink-light);
   border-radius: var(--radius);
   padding: 24px;
   transition: var(--transition);
@@ -462,7 +462,7 @@ img {
 .footer {
   text-align: center;
   padding: 40px 24px;
-  border-top: 1px solid var(--gray-200);
+  border-top: 1px solid var(--pink);
   margin-top: 60px;
 }
 
