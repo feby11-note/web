@@ -339,8 +339,8 @@ img {
 }
 
 .article-content blockquote {
-  border-left: 3px solid var(--pink);
-  background: var(--pink-light);
+  border-left: 3px solid #F5C4C7;
+  background: #FFF7F8;
   padding: 16px 20px;
   border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
   margin: 20px 0;
@@ -376,8 +376,8 @@ img {
 
 /* 提示框 */
 .tip-box {
-  background: var(--pink-light);
-  border: 1px solid var(--pink);
+  background: #FFF7F8;
+  border: 1px solid #F5C4C7;
   border-radius: var(--radius);
   padding: 20px 24px;
   margin: 24px 0;
@@ -386,7 +386,7 @@ img {
 .tip-box .tip-title {
   font-weight: 700;
   font-size: 14px;
-  color: var(--pink-dark);
+  color: #E8979C;
   margin-bottom: 8px;
 }
 
